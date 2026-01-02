@@ -1,0 +1,28 @@
+# Project place file
+/roblox-game-1.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Rojo
+sourcemap.json
+
+# Environment variables
+.env
+.env.local
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build outputs
+/build/
+/dist/
