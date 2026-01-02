@@ -14,9 +14,4 @@ Next, open `roblox-game-1.rbxlx` in Roblox Studio and start the Rojo server:
 rojo serve
 ```
 
-```bash
-  # 18:02:05.676  > print(game.PlaceId)  -  Studio
-  # 18:02:05.678  106991915855441  -  Edit
-  # Game ID: 18:02:52.157  9491633101  -  Edit
-```
 For more help, check out [the Rojo documentation](https://rojo.space/docs).
